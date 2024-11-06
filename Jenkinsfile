@@ -1,2 +1,2 @@
 this github integration to jenkins
-commiting changes to the files
+commiting changes to the all files
